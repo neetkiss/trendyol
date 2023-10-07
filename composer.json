@@ -1,7 +1,6 @@
 {
     "name": "neetkiss/trendyol",
-    "description": "Trendyol Entegrasyonu",
-    "type": "library",
+    "description": "Basit Trendyol Api",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -14,8 +13,5 @@
             "email": "ekucuk@wuwisoft.com"
         }
     ],
-    "minimum-stability": "",
-    "require": {
-        "php": "^7.4"
-    }
+    "require": {}
 }
