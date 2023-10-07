@@ -2,7 +2,7 @@
     "name": "neetkiss/trendyol",
     "description": "Trendyol Entegrasyonu",
     "type": "library",
-    "license": "MIT",
+    "license": "GPU",
     "autoload": {
         "psr-4": {
             "Neetkiss\\Trendyol\\": "src/"
@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
