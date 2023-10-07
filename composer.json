@@ -1,0 +1,29 @@
+{
+  "name": "neetkiss/trendyol",
+  "description": "Basit Trendyol PHP API",
+  "type": "library",
+  "keywords": [
+    "trendyol",
+    "eticaret",
+    "php api",
+    "trendyol php api",
+    "pazaryeri"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eren Küçük",
+      "email": "ekucuk@wuwisoft.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Neetkiss\\Trendyol\\": "src/trendyol"
+    }
+  },
+  "minimum-stability": "stable"
+}
