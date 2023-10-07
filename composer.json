@@ -2,7 +2,7 @@
     "name": "neetkiss/trendyol",
     "description": "Trendyol Entegrasyonu",
     "type": "library",
-    "license": "GPU",
+    "license": "GNU",
     "autoload": {
         "psr-4": {
             "Neetkiss\\Trendyol\\": "src/"
